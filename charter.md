@@ -27,6 +27,8 @@ The task force is expected to deliver documents at least on the following topics
 * Data Plan Info API: an API to let Web applications adapt their network usage to the data plan under which their user is on
 * Network Optimization API: an API to let Web applications (or browsers?) adapt their network usage to the particularities of the specific network they’re running on (e.g. determine what pattern the radio usage should follow)
 * Bundling of network requests and security: performance considerations, HTTP2, Content-Security-Policy are potentially pushing changes in different directions with regard to how web app developers should deliver their Web apps (e.g. as one or many files); the task force should review and document these competing constraints.
+* Impact of Web technologies on network management: a review of how various Web technologies (e.g. Web sockets, WebRTC, Push) impact the management of mobile networks
+* Network evolution roadmap: a roadmap of the expected evolution of mobile networks which have potential impacts on Web applications
 
 ## Communication
 The current expectation is that most of the work will happen on the Web and Mobile Interest Group public-web-mobile@w3.org list, supported by the usage of Github repositories as needed.
