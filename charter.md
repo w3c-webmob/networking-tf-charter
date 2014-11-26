@@ -2,8 +2,8 @@
 
 The mission of the Networking Task Force, part of the W3C Web and Mobile Interest Group, is to evaluate opportunities where better integration with the underlying network can help Web applications achieve a better user experience.
 
-Confidentiality: Proceedings are public
-TF Leader: TBD
+* Confidentiality: Proceedings are public
+* TF Leader: TBD
 
 ## Scope
 
