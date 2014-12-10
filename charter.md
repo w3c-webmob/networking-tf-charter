@@ -2,25 +2,25 @@
 
 The mission of the Networking Task Force, part of the W3C Web and Mobile Interest Group, is to evaluate opportunities where better integration with the underlying network can help Web applications achieve a better user experience.
 
-* Confidentiality: Proceedings are public
+* Confidentiality: Proceedings are Public
 * TF Leader: TBD
 
 ## Scope
 
-The Networking Task Force is forum where network operators, network equipment manufacturers, browser vendors and Web developers work together in discussing use cases and requirements around technologies that enable potential deeper integration between Web applications and the network on which they are served.
+The Networking Task Force is a forum where network operators, network equipment manufacturers, browser vendors and Web developers work together to discuss use cases and requirements regarding technologies that enable potentially deeper integration between Web applications and the network on which they are served.
 
-Due to the global nature of the Web platform, strong attention will be put on ensuring that solutions in this space remain applicable without specific out-of-band agreements between operators, browser vendors and application developers.
+Due to the global nature of the Web platform, strong attention will be put on ensuring solutions in this space remain applicable without specific out-of-band agreements between operators, browser vendors and application developers.
 
 The tasks of the group include:
 
-* evaluating existing features provided by network operators and see whether and how they could be used in the context of Web applications
-* identifying gaps in features provided by network operators which could further enhance browsers or Web applications
-* reviewing how the evolution of Web technologies impact network management
-* reviewing how the evolution of networking technologies might impact the Web
-* liaising with organizations that are responsible for network operations
+* Surveying and evaluating existing features (e.g. APIs) provided by network operators and see whether and how they could be used in the context of Web applications
+* Identifying gaps in features provided by network operators which could further enhance browsers or Web applications
+* Reviewing how the evolution of Web technologies impact network management
+* Reviewing how the evolution of networking technologies might impact the Web
+* Liaising with organizations that are responsible for network operations
 
 ## Deliverables
-In general, the task force will work on gap analysis, use cases and requirements; in some cases, it might sketch what a particular technical solution might look like, but actual technical work will happen in other W3C Working Groups, or in other organizations.
+In general, the task force will work on gap analysis, use cases and requirements; in some cases, it might sketch what a particular technical solution might look like, but actual technical work will happen in other W3C groups (e.g. Community Groups or Working Groups), or in other organizations.
 
 The task force is expected to deliver documents at least on the following topics:
 
